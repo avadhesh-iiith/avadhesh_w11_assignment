@@ -1,5 +1,12 @@
+
+
 # avadhesh_w11_assignment
 Assignment
+
+## Dockerfile 
+base image is python3.10
+then all dependencies will install from requirements.txt
+
 
 # build the Docker 
 in navigate to avadhesh_w11_assignment folder and execute below command 
